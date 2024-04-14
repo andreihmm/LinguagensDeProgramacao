@@ -37,3 +37,18 @@ Contém a criação de CLASSES, OBJETOS E MÉTODOS no desenvolvimento do sistema
 
 ### Exemplo
 
+Classe Pessoa
+
+![1](Matlab/ob1.jpg)
+
+Classe Jogador
+
+![2](Matlab/ob2.jpg)
+
+Classe Main
+
+![3](Matlab/ob3.jpg)
+
+Output
+
+![4](Matlab/ob4.jpg)
