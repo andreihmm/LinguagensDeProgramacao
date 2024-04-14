@@ -21,7 +21,7 @@
 ### Exemplo
 ![sla](Elixir/exemploelixir.jpg)
 
-### 2. Matlab - Orientado a Objeto
+## 2. Matlab - Orientado a Objeto
 
 ### O que é um Paradigma Orientado a Objeto?
 Contém a criação de CLASSES, OBJETOS E MÉTODOS no desenvolvimento do sistema.
@@ -52,3 +52,14 @@ Classe Main
 Output
 
 ![4](Matlab/ob4.jpg)
+
+## 3. Matlab - Visual
+
+### O que é um Paradigma Visual?
+Uma linguagem de programação visual é qualquer linguagem de programação que permite aos usuários criar programas manipulando elementos de programa graficamente ao invés da utilização de textos. Uma VPL permite programar com expressões visuais, arranjos espaciais de texto e símbolos gráficos, usados como elementos de sintaxe ou notação secundária.
+
+### Exemplo
+
+![1](Matlab_visual/lv1.jpg)
+
+![2](Matlab_visual/lv2.jpg)
