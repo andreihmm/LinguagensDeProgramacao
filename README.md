@@ -36,4 +36,4 @@ Contém a criação de CLASSES, OBJETOS E MÉTODOS no desenvolvimento do sistema
 >MATLAB foi criado no fim dos anos 1970 por Cleve Moler, então presidente do departamento de ciência da computação da Universidade do Novo México. Ele logo se espalhou para outras universidades e encontrou um forte uso no âmbito da comunidade matemática aplicada.
 
 ### Exemplo
-![]().
+
