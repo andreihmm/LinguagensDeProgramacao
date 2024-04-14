@@ -21,16 +21,16 @@
 ### Exemplo
 ![sla](Elixir/exemploelixir.jpg)
 
-## 2. Matlab - Orientado a Objeto
+### 2. Matlab - Orientado a Objeto
 
-## O que é um Paradigma Orientado a Objeto?
+### O que é um Paradigma Orientado a Objeto?
 Contém a criação de CLASSES, OBJETOS E MÉTODOS no desenvolvimento do sistema.
 - HERANÇA:  Reaproveitamento de código entre classes.
 - ENCAPSULAMENTO: Não é necessário saber o “como”, apenas o “o que”.
 - POLIMORFISMO: Métodos utilizados em diferentes objetos de diferentes classes.
 - ABSTRAÇÃO: Incluir no sistema apenas o que interessa ao sistema.
 
-## O que é a linguagem Matlab?
+### O que é a linguagem Matlab?
 >MATLAB (MATrix LABoratory) trata-se de um software interativo de alta performance voltado para o cálculo numérico. O MATLAB integra análise numérica, cálculo com matrizes, processamento de sinais e construção de gráficos em ambiente fácil de usar, onde problemas e soluções são expressos somente como eles são escritos matematicamente, ao contrário da programação tradicional.
 
 >MATLAB foi criado no fim dos anos 1970 por Cleve Moler, então presidente do departamento de ciência da computação da Universidade do Novo México. Ele logo se espalhou para outras universidades e encontrou um forte uso no âmbito da comunidade matemática aplicada.
