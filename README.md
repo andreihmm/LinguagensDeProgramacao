@@ -63,3 +63,15 @@ Uma linguagem de programação visual é qualquer linguagem de programação que
 ![1](Matlab_visual/lv1.jpg)
 
 ![2](Matlab_visual/lv2.jpg)
+
+
+## Onde posso baixar essas linguagens?
+
+
+Elixir: https://elixir-lang.org/install.html
+
+Tem suporte para Linux, macOs, Windows, BSD e Docker
+
+Marlab: https://www.mathworks.com/downloads/message/error_page/unlicensed?release=R2024a
+
+Tem suporte para Linux, macOs e Windows
